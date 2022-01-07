@@ -12,6 +12,7 @@ Since the course material was a little too basic for my personal taste, I added 
   - Some safety features when working on and saving existing files
   - Directly included into the game and can be launched from the main menu (newly created levels will also be detected and used immediately)
 * Automatic detection for existing and user created levels at game start
+* Proper windows folder usage for all external file (levels, sounds)
 * A custom and fully dynamic "wall" conversion system based on the amount of connected wall tiles (course version only used full block ascii)
 * Enemies
   - Randomized most values to make them more dynamic
