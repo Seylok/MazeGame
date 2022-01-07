@@ -1,8 +1,9 @@
 # MazeGame
 
-This is a small windows console gaming project I worked on during my C++ introductory course with CGSpectrum.
+This is a small windows console gaming project I worked on during my 3 months long C++ introductory course with CGSpectrum.
+I had some hobbyist experience with C# in Unity before, but this is my first actual foray into C++ and GitHub as well.
 
-Since the course material was a little too basic for my personal taste, I added quite a lot of additional mechanics and quality of life features:
+Since the course material was a little too basic (in terms of gameplay and optics) for my personal taste, I added quite a lot of additional mechanics and quality of life features:
 
 * Realtime gameplay/movement (the course version was purely update-per-keypress)
 * Enhanced the screen updating methods to a custom one to avoid any kind of flickering (so no CLS during gameplay, though still not actual buffering)
